@@ -7,7 +7,7 @@ AgriBot is an intelligent chatbot built to answer **farm-specific** as well as *
 
 ## 🧠 Tech Stack
 
-- **[FastAPI](https://fastapi.tiangolo.com/)** – API backend for managing routes and logic
+- **[Flask](https://flask.palletsprojects.com/en/stable/)** – API backend for managing routes and logic
 - **[LangChain](https://www.langchain.com/)** – Orchestration framework for LLMs
 - **[Hugging Face Transformers](https://huggingface.co/)** – Multilingual Embedding model
 - **Google Gemini API (LLM)** – Handles deep language reasoning and responses
